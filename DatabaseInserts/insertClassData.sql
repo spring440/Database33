@@ -62,7 +62,7 @@ insert into class (title, difficulty) values ('Full Text Indexing Basics' ,'Begi
 insert into class (title, difficulty) values ('Get your Mining Model Predictions out to all' ,'Intermediate');
 insert into class (title, difficulty) values ('Getting a job with Microsoft' ,'Non-Technical');
 insert into class (title, difficulty) values ('Graph Databases for SQL Server Professionals' ,'Intermediate');
-insert into class (title, difficulty) values ('Hacking Exposé - Using SSL to Protect SQL Connections' ,'Intermediate');
+insert into class (title, difficulty) values ('Hacking ExposÃ© - Using SSL to Protect SQL Connections' ,'Intermediate');
 insert into class (title, difficulty) values ('Hacking the SSIS 2012 Catalog' ,'Beginner');
 insert into class (title, difficulty) values ('Hidden in plain sight: master your tools' ,'Intermediate');
 insert into class (title, difficulty) values ('Highly Available SQL Server in Windows Azure IaaS' ,'Intermediate');
@@ -93,7 +93,7 @@ insert into class (title, difficulty) values ('Monitoring SQL Server using Exten
 insert into class (title, difficulty) values ('Multidimensional vs Tabular - May the Best Model Win' ,'Intermediate');
 insert into class (title, difficulty) values ('Murder They Wrote' ,'Intermediate');
 insert into class (title, difficulty) values ('Never Have to Say "Mayday!!!" Again' ,'Beginner');
-insert into class (title, difficulty) values ('Now you see it! Now you don’t! Conjuring many reports utilizing only one SSRS report.' ,'Intermediate');
+insert into class (title, difficulty) values ('Now you see it! Now you donÂ’t! Conjuring many reports utilizing only one SSRS report.' ,'Intermediate');
 insert into class (title, difficulty) values ('Optimal Infrastructure Strategies for Cisco UCS, Nexus and SQL Server' ,'Non-Technical');
 insert into class (title, difficulty) values ('Optimizing Protected Indexes' ,'Intermediate');
 insert into class (title, difficulty) values ('Partitioning as a design pattern' ,'Advanced');
@@ -101,7 +101,7 @@ insert into class (title, difficulty) values ('Power BI Components in Microsoft'
 insert into class (title, difficulty) values ('Power to the people!!' ,'Intermediate');
 insert into class (title, difficulty) values ('PowerShell Basics for SQLServer' ,'Beginner');
 insert into class (title, difficulty) values ('PowerShell for the Reluctant DBA / Developer' ,'Beginner');
-insert into class (title, difficulty) values ('Prevent Recovery Amnesia – Forget the Backups' ,'Beginner');
+insert into class (title, difficulty) values ('Prevent Recovery Amnesia Â– Forget the Backups' ,'Beginner');
 insert into class (title, difficulty) values ('Query Optimization Crash Course' ,'Beginner');
 insert into class (title, difficulty) values ('Raffle' ,'Non-Technical');
 insert into class (title, difficulty) values ('Rapid Application Development with Master Data Services' ,'Intermediate');
@@ -129,7 +129,7 @@ insert into class (title, difficulty) values ('SQL Server Reporting Services, at
 insert into class (title, difficulty) values ('SQL Server Storage Engine under the hood' ,'Intermediate');
 insert into class (title, difficulty) values ('SQL Server Storage internals: Looking under the hood.' ,'Advanced');
 insert into class (title, difficulty) values ('SSIS 2014 Data Flow Tuning Tips and Tricks' ,'Beginner');
-insert into class (title, difficulty) values ('Standalone to High-Availability Clusters over Lunch—with Time to Spare' ,'Intermediate');
+insert into class (title, difficulty) values ('Standalone to High-Availability Clusters over LunchÂ—with Time to Spare' ,'Intermediate');
 insert into class (title, difficulty) values ('Stress testing SQL Server' ,'Advanced');
 insert into class (title, difficulty) values ('Table partitioning for Azure SQL Databases' ,'Beginner');
 insert into class (title, difficulty) values ('Testing' ,'Beginner');
@@ -148,7 +148,7 @@ insert into class (title, difficulty) values ('Watch Brent Tune Queries' ,'Inter
 insert into class (title, difficulty) values ('What every SQL Server DBA needs to know about Windows Server 10 Technical Preview' ,'Intermediate');
 insert into class (title, difficulty) values ('What exactly is big data and why should I care?' ,'Beginner');
 insert into class (title, difficulty) values ('What is it like to work for Microsoft?' ,'Beginner');
-insert into class (title, difficulty) values ('What’s new in SQL Server Integration Services 2012' ,'Intermediate');
+insert into class (title, difficulty) values ('WhatÂ’s new in SQL Server Integration Services 2012' ,'Intermediate');
 insert into class (title, difficulty) values ('Why do we shun using tools for DBA job?' ,'Intermediate');
 insert into class (title, difficulty) values ('Why OLAP? Building SSAS cubes and benefits of OLAP' ,'Intermediate');
 insert into class (title, difficulty) values ('You''re Doing It Wrong!!' ,'Intermediate');
